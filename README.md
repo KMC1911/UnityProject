@@ -10,7 +10,7 @@
 ```
 ### 遊戲下載  
 
-<a href="https://github.com/mailk8811/UnityProject/blob/main/110710545/Final.exe">載點</a>
+<a href="https://github.com/mailk8811/UnityProject/blob/main/110710545/Final.exe">遊戲執行檔</a>
 
 ### 遊戲操作說明：
 ```
