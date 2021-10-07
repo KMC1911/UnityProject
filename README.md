@@ -8,6 +8,7 @@
 
 （注意：寶箱共有五個，必徐收集完成才能過關）
 ```
+<img src="https://github.com/mailk8811/UnityProject/blob/main/picture/1-1.png">
 ### 遊戲下載  
 
 <a href="https://github.com/mailk8811/UnityProject/blob/main/110710545/Final.exe">遊戲執行檔</a>
